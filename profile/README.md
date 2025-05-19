@@ -8,11 +8,11 @@ An open-source, modular, local-first bike logistics/delivery platforms for commu
 - Data visibility & planning tools
 
 ## Planned Modules
-- [] Core platform: web dashboard for managing users, couriers, and modules
-- [] Ride logging computer: lightweight & simple ride computer for couriers
-- [] Drop box node: IoT package drop points with logging
-- [] Mesh communications: LoRa based module for location & message relaying
-- [] Bike maintenence platform: component tracker, mileage alerts, overall fleet health
+- [ ] Core platform: web dashboard for managing users, couriers, and modules
+- [ ] Ride logging computer: lightweight & simple ride computer for couriers
+- [ ] Drop box node: IoT package drop points with logging
+- [ ] Mesh communications: LoRa based module for location & message relaying
+- [ ] Bike maintenence platform: component tracker, mileage alerts, overall fleet health
 - And more to come...
 
 ## Philosophy
