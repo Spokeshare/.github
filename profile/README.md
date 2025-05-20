@@ -13,7 +13,12 @@ An open-source, modular, local-first bike logistics/delivery platforms for commu
 - [ ] Drop box node: IoT package drop points with logging
 - [ ] Mesh communications: LoRa based module for location & message relaying
 - [ ] Bike maintenence platform: component tracker, mileage alerts, overall fleet health
+- [ ] Authentication & Dropoff hubs: modules that allow couriers to check-in and drop off packages securely
 - And more to come...
+
+## v0.1 Roadmap
+- Implement core + dropoff modules
+- Demonstrate proof of concept
 
 ## Philosophy
 - Local first: all modules should be suited for use in small communities and support offline/local network usage
